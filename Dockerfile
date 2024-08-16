@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM httpd
 MAINTAINER name ajith
 LABEL transform the code to the jenkins
 EXPOSE 80
